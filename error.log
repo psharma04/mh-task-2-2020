@@ -60,3 +60,27 @@ Tue May 05 2020 19:38:56 GMT+1000 (Australian Eastern Standard Time)
 fatal: not a git repository (or any of the parent directories): .git
 
 
+----------
+
+Tue May 05 2020 19:39:42 GMT+1000 (Australian Eastern Standard Time)
+
+ssh_askpass: exec(/usr/X11R6/bin/ssh-askpass): No such file or directory
+
+
+----------
+
+Tue May 05 2020 19:39:42 GMT+1000 (Australian Eastern Standard Time)
+
+git@github.com: Permission denied (publickey).
+
+
+----------
+
+Tue May 05 2020 19:39:42 GMT+1000 (Australian Eastern Standard Time)
+
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+
